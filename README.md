@@ -1,6 +1,6 @@
 # Predicting Aedes age
 
- Field data 
+ Methods for processing and analysing field data from Tucson, Hermosillo, and Nogales. 
 
 
 # Author
